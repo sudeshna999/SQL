@@ -67,5 +67,14 @@ This data-driven approach helps businesses optimize delivery logistics, plan for
 ---
 
 ## Author
+### — Sudeshna Dey
+###  — Contact & Contributions
 
-Your Name | Your Contact Info (optional)
+#### 📧 Email: sudeshnadey1000@gmail.com
+#### 🔗 LinkedIn: https://www.linkedin.com/in/sudeshna-dey-724a811a0/
+ Have feedback or suggestions? I'm always open to improving and collaborating!
+ 
+If you find this project helpful:
+⭐ Give it a star
+Thanks for visiting — and happy data analyzing!
+
