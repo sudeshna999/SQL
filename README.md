@@ -1,8 +1,8 @@
-# 📊 Data Analytics with SQL (MySQL Edition)
+#  Data Analytics with SQL (MySQL Edition)
 Welcome to the world of Data Analytics using SQL!
 This repository contains a curated set of projects, resources, and real-world case studies that demonstrate the power of MySQL in uncovering actionable business insights from raw data.
 
-## 🚀 What You'll Find Here
+##  What You'll Find Here
 ### ✅ Hands-on SQL Projects
 Explore practical analytics projects that include:
 
@@ -19,18 +19,14 @@ Modular and well-documented SQL scripts for querying, filtering, joining, aggreg
 Helpful guides and references to boost your SQL skills, whether you're a beginner or looking to sharpen advanced concepts.
 You can just run the queries in your MySQL environment to reproduce the insights.
 
-## 🤝 Contact & Contributions
-💡 Have feedback or suggestions? I'm always open to improving and collaborating!
+##  Contact & Contributions
+ Have feedback or suggestions? I'm always open to improving and collaborating!
 
 ### 📧 Email: sudeshnadey1000@gmail.com
 ### 🔗 LinkedIn: https://www.linkedin.com/in/sudeshna-dey-724a811a0/
 
 If you find this project helpful:
 ⭐ Give it a star
-
-🍴 Fork the repo
-
-📝 Submit a pull request or open an issue
 
 Thanks for visiting — and happy data analyzing!
 #### — Sudeshna Dey
