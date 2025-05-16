@@ -6,10 +6,10 @@ This repository contains a curated set of projects, resources, and real-world ca
 ### ✅ Hands-on SQL Projects
 Explore practical analytics projects that include:
 
-#### Database creation & schema design
-#### Data cleaning and transformation
-#### Advanced SQL querying for deep analysis
-#### Critical thinking applied to real-world scenarios
+#### - Database creation & schema design
+#### - Data cleaning and transformation
+#### - Advanced SQL querying for deep analysis
+#### - Critical thinking applied to real-world scenarios
 
 ### ✅ Insightful Reports
 Each project includes SQL-driven reports that translate raw data into business-friendly visuals and conclusions for stakeholders and decision-makers.
@@ -23,7 +23,7 @@ You can just run the queries in your MySQL environment to reproduce the insights
 💡 Have feedback or suggestions? I'm always open to improving and collaborating!
 
 ### 📧 Email: sudeshnadey1000@gmail.com
-### 🔗 LinkedIn: Sudeshna Dey
+### 🔗 LinkedIn: https://www.linkedin.com/in/sudeshna-dey-724a811a0/
 
 If you find this project helpful:
 ⭐ Give it a star
