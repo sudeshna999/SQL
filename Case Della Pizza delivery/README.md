@@ -1,8 +1,10 @@
 # 🍕 Pizza Sales Data Analytics Project
-## Project Overview
-This project dives deep into a pizza sales dataset to uncover insights about customer preferences, order patterns, revenue trends, and inventory needs. Using advanced SQL queries, the analysis covers peak sales hours, top-performing pizzas, order frequency by size and category, and demand forecasting.
 
+## Project Overview
+
+This project dives deep into a pizza sales dataset to uncover insights about customer preferences, order patterns, revenue trends, and inventory needs. Using advanced SQL queries, the analysis covers peak sales hours, top-performing pizzas, order frequency by size and category, and demand forecasting.
 By understanding key drivers behind sales and customer behavior, this project empowers pizzerias to optimize menu offerings, streamline inventory, and enhance marketing strategies.
+
 ---
 ## Business Problem
 Pizza restaurants often face challenges such as:
@@ -12,7 +14,6 @@ Pizza restaurants often face challenges such as:
 - Failing to predict peak sales hours or days.
 - Ineffective targeting of customers based on ordering patterns.
 - Limited understanding of seasonal demand and trends.
-
 Solving these issues can lead to higher profits, better customer satisfaction, and more efficient operations.
 ---
 ## Solution & Approach
@@ -31,7 +32,6 @@ This project uses **SQL-based data analysis to answer crucial business questions
 - Date functions to identify time-based sales trends.
 - CTEs and subqueries for clean, modular logic.
 - Aggregation to evaluate sales performance over time.
-
 Insights are translated into action items to maximize sales, minimize waste, and improve menu design.
 ---
 ## Repository Structure
