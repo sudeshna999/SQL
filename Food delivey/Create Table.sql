@@ -1,7 +1,7 @@
-create database zomato_delivery;
+create database Food_delivery;
 
 
-use zomato_delivery;
+use food_delivery;
 drop table delivery;
 
 -- step- 2. create table for importing the data using non GUI
