@@ -35,10 +35,10 @@ This project uses **SQL-based data analysis to answer crucial business questions
 Insights are translated into action items to maximize sales, minimize waste, and improve menu design.
 ---
 ## Repository Structure
-- sql/ — Contains SQL scripts for each analysis use case.
+- .sql — Contains SQL scripts for each analysis use case.
 - README.md — Project documentation.
-- data/ — (Optional) Sample pizza sales dataset.
-- visualizations/ — (Optional) Power BI or chart exports (if any).
+- create_insert_table — Sample pizza sales dataset.
+
 ---
 ## Technologies Used
 - MySQL / PostgreSQL for querying
