@@ -1,4 +1,4 @@
-# Food Delivery Data Analytics Project
+# Delivery Performance Analysis 
 
 ## Project Overview
 
@@ -42,8 +42,8 @@ This data-driven approach helps businesses optimize delivery logistics, plan for
 
 - `sql/` — Contains all SQL scripts for data analysis and queries.
 - `README.md` — Project overview and documentation.
-- `data/` — (Optional) Folder for sample or raw data files.
-- `reports/` — (Optional) Summary reports or export results.
+- `.csv` — Folder for sample or raw data files.
+- `reports/` — Summary reports or export results.
 
 ---
 
